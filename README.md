@@ -1,6 +1,5 @@
-# plp
+# FlutterMobile
 
-A new Flutter project.
 
 ## Getting Started
 
